@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Wechat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-31 20:49+0800\n"
+"PO-Revision-Date: 2013-07-31 20:49+0800\n"
+"Last-Translator: Angela Zou <angela380in@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/\n"
+"X-Poedit-SearchPath-0: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat\n"
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:30
+msgid "Super Wechat Configuration"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:33
+msgid "Module - Menu Configuration"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:38
+msgid "Module - Repost By Link Configuration"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:99
+msgid "Token"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:106
+msgid "Access Token"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:113
+msgid "Success Message"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:120
+msgid "Modules"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:124
+msgid "Menu"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:133
+msgid "Repost By Link"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:142
+msgid "Wechat Menu"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:158
+msgid "Default Posting Category"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:166
+msgid "Default Post Status"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:170
+msgid "Publish"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:174
+msgid "Draft"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:178
+msgid "Pending"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:187
+msgid "Default Author"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/super-wechat.php:242
+msgid "Super Wechat"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/includes/module-menu.php:84
+msgid "Action Succeed"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/includes/module-menu.php:86
+#, php-format
+msgid "Action Failed With Code %s"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/super-wechat/includes/module-reply.php:62
+msgid "Super Wechat Concierge"
+msgstr ""
+
